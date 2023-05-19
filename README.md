@@ -15,3 +15,14 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=DenisErygin&style=flat-square&color=blue" alt=""/>
   
+---
+
+### :hammer_and_wrench: Languages and Tools : 
+  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50"/>
+</div>
